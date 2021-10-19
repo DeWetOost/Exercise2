@@ -1,0 +1,16 @@
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\bin\Debug\net5.0\Timetables.exe
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\bin\Debug\net5.0\Timetables.deps.json
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\bin\Debug\net5.0\Timetables.runtimeconfig.json
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\bin\Debug\net5.0\Timetables.runtimeconfig.dev.json
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\bin\Debug\net5.0\Timetables.dll
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\bin\Debug\net5.0\ref\Timetables.dll
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\bin\Debug\net5.0\Timetables.pdb
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\Timetables.csproj.AssemblyReference.cache
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\Timetables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\Timetables.AssemblyInfoInputs.cache
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\Timetables.AssemblyInfo.cs
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\Timetables.csproj.CoreCompileInputs.cache
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\Timetables.dll
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\ref\Timetables.dll
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\Timetables.pdb
+C:\Users\dewet\Documents\Course21\Projects\Exercise2\Timetables\obj\Debug\net5.0\Timetables.genruntimeconfig.cache
